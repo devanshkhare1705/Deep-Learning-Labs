@@ -1,7 +1,10 @@
 # APS360-Labs
 APS360: Applied Deep Learning was a core course for my Certificate in Artificial Intelligence (AECERAIEN) during my B.A.Sc. at University of Toronto.
+
 The course covered the theory and implementation of the latest concepts in supervised and unsupervised learning, including how they can be used for generative AI.
+
 Architectures covered: Transformers, Graph Neural Networks, GANs, Variational Autoencoders, RNNs, CNNs, ANNs, etc
+
 Course labs have been overviewed below and attached in the repository.
 
 
