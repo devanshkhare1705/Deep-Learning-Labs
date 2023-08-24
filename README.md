@@ -1,5 +1,7 @@
 # APS360-Labs
-Course labs for APS360: Applied Deep Learning at the University of Toronto. This was a core course for my Certificate in Artificial Intelligence (AECERAIEN) during my BASc at UofT.
+APS360: Applied Deep Learning was a core course for my Certificate in Artificial Intelligence (AECERAIEN) during my B.A.Sc. at University of Toronto.
+The course covered the theory and implementation of state-of-the-art architectures for supervised and unsupervised learning including transformers, graph neural networks, GANs, autoencoders, as well as RNNs, CNNs and ANNs.
+
 
 
 Lab 1:
@@ -14,8 +16,12 @@ Lab 1:
 Lab 2:
 
 1. Implemented the training loop for a machine learning model.
-2. Understood the distinction between training, validation, and test data.
-3. Understood the concepts of overfitting and underfitting.
-4. Investigated how different hyperparameters, such as learning rate and batch size, affected the success of training.
-5. Compared an ANN (aka Multi-Layer Perceptron) with a CNN.
+2. Understood the distinction between training, validation, and test data, along with the concepts of overfitting and underfitting.
+3. Investigated how different hyperparameters, such as learning rate and batch size, affected the success of training.
+4. Compared an ANN (aka Multi-Layer Perceptron) with a CNN.
 
+Lab 3:
+1. Cleaned and processed continuous and categorical data for machine learning.
+2. Implemented an autoencoder that takes continuous and categorical (one-hot) inputs.
+3. Tuned the hyperparameters of an autoencoder.
+4. Used baseline models to help interpret model performance.
