@@ -7,7 +7,7 @@ Architectures covered: Transformers, Graph Neural Networks, GANs, Variational Au
 Course labs have been overviewed below and attached in the repository.
 
 ## Labs Overview
-Lab 1: Manipulating Images and Classifying MNIST Handwritten Digits using Aritificial Neural Networks
+### Lab 1: Manipulating Images and Classifying MNIST Handwritten Digits using Aritificial Neural Networks
 
 1. Performed fundamental NumPy operations.
 2. Loaded and manipulated images using Matplotlib.
@@ -16,7 +16,7 @@ Lab 1: Manipulating Images and Classifying MNIST Handwritten Digits using Aritif
 5. Evaluated different ANN configuations.
 
 
-Lab 2: Identifying CATS vs. Dogs using Convolutional Neural Networks
+### Lab 2: Identifying CATS vs. Dogs using Convolutional Neural Networks
 
 1. Implemented the training loop for a machine learning model.
 2. Understood the distinction between training, validation, and test data, along with the concepts of overfitting and underfitting.
@@ -24,7 +24,7 @@ Lab 2: Identifying CATS vs. Dogs using Convolutional Neural Networks
 4. Compared an ANN (aka Multi-Layer Perceptron) with a CNN.
 
 
-Lab 3: Filling missing Census Data using Autoencoders
+### Lab 3: Filling missing Census Data using Autoencoders
 
 1. Cleaned and processed continuous and categorical data for machine learning.
 2. Implemented an autoencoder that takes continuous and categorical (one-hot) inputs.
@@ -32,7 +32,7 @@ Lab 3: Filling missing Census Data using Autoencoders
 4. Used baseline models to help interpret model performance.
 
 
-Lab 4: Classifying SPAM/NON-SPAM for SMS using Batched RNNs.
+### Lab 4: Classifying SPAM/NON-SPAM for SMS using Batched RNNs.
 
 1. Cleaned and processed text data for machine learning.
 2. Implemented a character-level recurrent neural network.
