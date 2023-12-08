@@ -32,7 +32,7 @@ Course labs have been overviewed below and attached in the repository.
 4. Used baseline models to help interpret model performance.
 
 
-### Lab 4: Classifying SPAM/NON-SPAM for SMS using Batched RNNs.
+### Lab 4: Classifying SPAM/NON-SPAM for SMS using Batched RNNs
 
 1. Cleaned and processed text data for machine learning.
 2. Implemented a character-level recurrent neural network.
